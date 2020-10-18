@@ -1,6 +1,5 @@
 # Hacktoberfest-GLAU
 Welcome to HacktoberFest 2020!
-This is official repository for the Hacktoberfest'20 even for students who is beginner to the open source.
 
 This is the official repository of the Hacktoberfest event at the GLA University.
 

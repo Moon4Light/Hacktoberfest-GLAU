@@ -6,3 +6,5 @@ Your introduction format should be like following example:
 [1] Kevin Lewis(B.Tech.-C.S.E)
 
 [2] Piyush Kumar(B.Tech.-E.C.E)
+[3] Deepak Kumar(B.Tech. -CSE)
+[4] Rohit Yadav(BCA)
